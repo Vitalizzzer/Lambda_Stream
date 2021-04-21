@@ -1,0 +1,3 @@
+Hello!
+I'm learning Java 8
+Stream API is very useful!
